@@ -1,6 +1,7 @@
 # Xenith_mini
 
-![Xenith_mini Logo](https://via.placeholder.com/150.png?text=XenArcAI) <!-- Replace with your logo if you have one -->
+![Xenith_mini Logo]()
+ <!-- Replace with your logo if you have one -->
 
 **A Next-Generation AI Powerhouse Built for Scale and Intelligence**
 
