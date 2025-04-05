@@ -30,7 +30,7 @@ Welcome to `Xenith_mini`, an advanced language model architecture designed to pu
 | **LoRA Adaptation**  | Rank-128 LoRA in all linear layers for efficient fine-tuning           |
 | **Summarizer**       | 4-layer, 16-head transformer for compressing STM into LTM              |
 
-`XenArcAIi2Beast` blends the best of modern NLP: sparse attention for scalability, MoE for expert-driven performance, and a unique memory system for context-aware intelligence. It’s designed to rival models like Qwen-32B or Mixtral 8x7B, with the potential to exceed them in long-context and reasoning tasks when fully trained.
+`Xenith_mini` blends the best of modern NLP: sparse attention for scalability, MoE for expert-driven performance, and a unique memory system for context-aware intelligence. It’s designed to rival models like Qwen-32B or Mixtral 8x7B, with the potential to exceed them in long-context and reasoning tasks when fully trained.
 
 ---
 
